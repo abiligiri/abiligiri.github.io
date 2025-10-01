@@ -1,0 +1,1 @@
+{"servers":[{"id":"github","name":"GitHub MCP Server","description":"Tools and resources for GitHub repos, issues, PRs, and Actions.","manifest_url":"https://registry.yourcompany.com/servers/github/manifest.json","categories":["code","devops","github"],"version":"1.0.0","release_date":"2025-09-01T00:00:00Z","latest":true}],"total_count":1,"updated_at":"2025-09-09T12:00:00Z"}
